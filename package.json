@@ -1,0 +1,14 @@
+{
+  "name": "hiking-app",
+  "version": "1.0.0",
+  "description": "Hiking trails website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hiking"
+  ],
+  "author": "Daniel Stoica",
+  "license": "MIT"
+}
